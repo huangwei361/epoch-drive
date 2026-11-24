@@ -1,0 +1,143 @@
+{
+  "model": "doubao-seedream-5-0-pro-260628",
+  "images": [
+    {
+      "name": "hero_home",
+      "alt": "黄昏时分盘山公路蜿蜒穿过松林，远处雪山被夕照点亮",
+      "page": "index.html",
+      "file": "assets/img/hero_home.jpg"
+    },
+    {
+      "name": "hero_plateau",
+      "alt": "高原蓝调时刻的青海湖，远处山脊延伸至天际",
+      "page": "case-study.html",
+      "file": "assets/img/hero_plateau.jpg"
+    },
+    {
+      "name": "hero_desert",
+      "alt": "黎明时分的荒原公路，远处是连绵雪山",
+      "page": "operations.html",
+      "file": "assets/img/hero_desert.jpg"
+    },
+    {
+      "name": "route_l1",
+      "alt": "川西秋色中的藏寨与彩林",
+      "page": "routes.html",
+      "file": "assets/img/route_l1.jpg"
+    },
+    {
+      "name": "route_l2",
+      "alt": "独库公路翻越雪山垭口，云海在脚下",
+      "page": "routes.html",
+      "file": "assets/img/route_l2.jpg"
+    },
+    {
+      "name": "route_l3",
+      "alt": "晨雾中的高山湖泊与木栈道",
+      "page": "routes.html",
+      "file": "assets/img/route_l3.jpg"
+    },
+    {
+      "name": "route_l4",
+      "alt": "青海湖岸的油菜花田与远处雪山",
+      "page": "routes.html",
+      "file": "assets/img/route_l4.jpg"
+    },
+    {
+      "name": "route_l5",
+      "alt": "海岸公路与海岬上的灯塔",
+      "page": "routes.html",
+      "file": "assets/img/route_l5.jpg"
+    },
+    {
+      "name": "route_l6",
+      "alt": "喀纳斯的白桦林与炊烟中的木屋",
+      "page": "routes.html",
+      "file": "assets/img/route_l6.jpg"
+    },
+    {
+      "name": "route_l7",
+      "alt": "草原天路的风车与远处古城墙",
+      "page": "routes.html",
+      "file": "assets/img/route_l7.jpg"
+    },
+    {
+      "name": "route_l8",
+      "alt": "湖畔营地的第一颗星星与帐篷灯光",
+      "page": "routes.html",
+      "file": "assets/img/route_l8.jpg"
+    },
+    {
+      "name": "svc_route_planning",
+      "alt": "路线策划工作台：地形图、笔记、指南针与手持 GPS",
+      "page": "services.html",
+      "file": "assets/img/svc_route_planning.jpg"
+    },
+    {
+      "name": "svc_gear_loadout",
+      "alt": "后备箱里整齐码放的睡车、炊具与应急装备",
+      "page": "services.html",
+      "file": "assets/img/svc_gear_loadout.jpg"
+    },
+    {
+      "name": "svc_logistics",
+      "alt": "山路上的后勤保障车，车顶装载燃油与救援装备",
+      "page": "services.html",
+      "file": "assets/img/svc_logistics.jpg"
+    },
+    {
+      "name": "svc_escort",
+      "alt": "领队在山间停车点查看地图、同行者在整理装备",
+      "page": "services.html",
+      "file": "assets/img/svc_escort.jpg"
+    },
+    {
+      "name": "svc_content",
+      "alt": "黄昏机位上的相机与三脚架",
+      "page": "services.html",
+      "file": "assets/img/svc_content.jpg"
+    },
+    {
+      "name": "svc_corporate",
+      "alt": "黎明前整齐列队的越野车队",
+      "page": "services.html",
+      "file": "assets/img/svc_corporate.jpg"
+    },
+    {
+      "name": "case_camp_life",
+      "alt": "车内改装的纯平睡床，夜里亮着阅读灯",
+      "page": "case-study.html",
+      "file": "assets/img/case_camp_life.jpg"
+    },
+    {
+      "name": "case_cooking",
+      "alt": "高原营地在车尾煮热汤，保温壶与搪瓷杯在旁边",
+      "page": "case-study.html",
+      "file": "assets/img/case_cooking.jpg"
+    },
+    {
+      "name": "case_highway",
+      "alt": "笔直穿过高原的公路，消失在地平线",
+      "page": "case-study.html",
+      "file": "assets/img/case_highway.jpg"
+    },
+    {
+      "name": "case_cold",
+      "alt": "冬季雪山垭口，路面覆雪",
+      "page": "case-study.html",
+      "file": "assets/img/case_cold.jpg"
+    },
+    {
+      "name": "about_team",
+      "alt": "团队在山间木屋公共空间围着地图做线路推演",
+      "page": "about.html",
+      "file": "assets/img/about_team.jpg"
+    },
+    {
+      "name": "contact_landscape",
+      "alt": "晨雾山谷，一条路通向远方的日照金山",
+      "page": "contact.html",
+      "file": "assets/img/contact_landscape.jpg"
+    }
+  ]
+}
